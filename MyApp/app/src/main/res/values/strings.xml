@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">The legend of United</string>
+    <string name="top10_finalis">Nama Legenda</string>
+    <string name="description">Legenda Manchaster Uneted yang pernah berjasa pada keberhasilan Uneted mencapai kejayaan</string>
+
+
+    <string name="about">About</string>
+    <string name="me">Nama Saya</string>
+    <string name="akun">Email</string>
+
+
+
+    <string-array name="data_nama">
+        <item>Eka Nurul Azizah</item>
+    </string-array>
+    <string-array name="data_akun">
+        <item>ekaazizah@std.unissula.ac.id</item>
+    </string-array>
+
+    <string-array name="data_name">
+        <item>Bruno Fernandez</item>
+        <item>Eric Cantona</item>
+        <item>Casemiro</item>
+        <item>Cristiano Ronaldo</item>
+        <item>David Beckham</item>
+        <item>Miguer</item>
+        <item>Pogba</item>
+        <item>Paul Scholes</item>
+        <item>Van Der Sar</item>
+        <item>Rooney</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>ABruno Miguel Borges Fernandes (lahir 8 September 1994) adalah seorang pemain sepak bola asal Portugal yang saat ini bermain sebagai gelandang di tim Liga Utama Inggris Manchester United F.C. dan tim nasional sepak bola Portugal.</item>
+
+        <item>Éric Daniel Pierre Cantona (lahir 24 Mei 1966) merupakan Aktor dan mantan pemain sepak bola berkebangsaan Prancis. Dia pernah membela tim, AJ Auxerre, FC Martigues, Olympique de Marseille, FC Girondins de Bordeaux, Montpellier HSC Nîmes Olympique, Leeds United F.C., dan Manchester United F.C.. Di timnas Prancis, dia bermain 43 kali dan mencetak 19 gol. Cantona juga pernah memperkuat tim sepak bola pantai Prancis pada tahun 2005 dan meraih gelar juara dunia.</item>
+        <item>Carlos Henrique Casimiro (lahir 23 Februari 1992), biasa lebih dikenal sebagai Casemiro, adalah seorang pemain sepak bola profesional asal Brasil yang bermain sebagai gelandang bertahan untuk klub Liga Utama Inggris Manchester United dan tim nasional Brasil. </item>
+        <item>Cristiano Ronaldo dos Santos Aveiro (lahir 5 Februari 1985) adalah seorang pemain sepak bola profesional asal Portugal yang bermain di klub Arab Saudi Al-Nassr FC sebagai penyerang dan juga kapten tim nasional Portugal.
+            Sering dianggap sebagai pemain terbaik di dunia dan secara luas dianggap sebagai salah satu pemain terhebat sepanjang masa, Ronaldo memenangkan lima penghargaan Ballon dOr dan empat Sepatu Emas Eropa.
+            Ia sejauh ini memenangkan 35 trofi sepanjang kariernya, termasuk tujuh gelar liga, lima Liga Champions UEFA, satu Kejuaraan Eropa UEFA dan satu Liga Negara UEFA. Ronaldo memegang rekor gol (140) dan umpan gol (42) terbanyak di Liga Champions, gol terbanyak di Kejuaraan Eropa UEFA (14), dan gol internasional terbanyak oleh pemain pria (123).
+            Ia adalah salah satu dari sedikit pemain yang tercatat telah membuat lebih dari 1.100 penampilan di sepanjang karier profesionalnya, dan mencetak lebih dari 863 gol resmi baik untuk klub dan negara.</item>
+        <item>David Robert Joseph Beckham, OBE (lahir 2 Mei 1975) adalah mantan pemain sepak bola asal Inggris. Ia merupakan presiden petahana sekaligus salah satu pemilik klub sepak bola Inter Miami CF, dan juga salah seorang pemilik dari Salford City. Ia tercatat pernah membela Manchester United, Real Madrid, AC Milan, Los Angeles Galaxy, Paris Saint-Germain,
+            dan tim nasional sepak bola Inggris, di mana ia memegang rekor penampilan untuk pemain non-penjaga gawang,[5] dan juga pemain Inggris pertama yang memenangi gelar juara liga di empat negara berbeda. Dia mengumumkan pensiun dari dunia sepak bola profesional di akhir musim Ligue 1 2012–13 pada 16 Mei 2013. </item>
+        <item>Jacob Harry Maguire (lahir 5 Maret 1993) adalah seorang pemain sepak bola berkewarganegaraan Inggris yang bermain untuk klub Manchester United pada posisi bek tengah. </item>
+        <item>Paul Labilé Pogba (lahir 15 Maret 1993) adalah pemain sepak bola profesional Prancis dan Serie A, Juventus dan tim nasional Prancis. Ia berposisi sebagai gelandang tengah dan nyaman dalam bermain baik menyerang dan bertahan.[3]  </item>
+        <item>Paul Scholes (lahir 16 November 1974) adalah mantan pemain sepak bola dari Inggris yang menghabiskan semua kariernya bermain untuk klub Manchester United. Ia memulai Karier debutnya pada musim 1994-95 dan menjadi Pemain kunci ketika United memenangkan Treble Winners pada musim 1998-99 Merupakan salah satu pemain yang bersinar pada generasinya, Dia diidolakan berbagai Pesepak bola kelas dunia karena gaya permainannya di lapangan hijau. Ia adalah bagian dari Class of 92 Manchester United, beserta Ryan Giggs, Gary Neville, Phil Neville, David Beckham, Nicky Butt, dan pemain lainnya yang tersebar ke liga-liga domestik Inggris. </item>
+        <item>Edwin van der Sar (pengucapan bahasa Belanda: [ˈɛtʋɪn vɑn dɛr ˈsɑr]; lahir 29 Oktober 1970) adalah seorang mantan pemain sepak bola profesional asal Belanda, yang bermain sebagai penjaga gawang. Dia pernah menjabat sebagai kapten tim nasional sepak bola Belanda dan juga pernah bermain untuk klub Manchester United di Liga Utama Inggris.</item>
+        <item>Wayne Mark Rooney /ˈruːni/; lahir 24 Oktober 1985) adalah seorang pelatih dan mantan pemain sepak bola profesional yang kini menjadi kepala pelatih klub Kejuaraan EFL Birmingham City F.C.. Sebagai pemain profesional, Rooney dikenal saat bermain sebagai penyerang untuk klub-klub seperti Everton, Manchester United, D.C. United, dan Derby County, serta tim nasional Inggris. Pada saat berumur sembilan tahun, Rooney bergabung dengan tim muda dari Everton, dan ia membuat debut profesional pada tahun 2002 pada usia 16 tahun.
+            Ia menghabiskan dua musim di klub Merseyside tersebut, sebelum pindah ke Manchester United seharga £ 25.600.000 di jendela transfer musim panas 2004. Pada tahun yang sama, Rooney memperoleh julukan "Wazza".[3] Sejak itu, dengan Rooney berada dalam tim, United telah memenangkan Liga Premier lima kali, Liga Champions sekali, Piala Dunia Antarklub FIFA sekali dan Piala Liga dua kali. Pada Maret 2014, Rooney mencetak gol ke-212 untuk United, membuatnya menjadi pencetak gol tertinggi ketiga sepanjang masa bagi klub.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/brunovernandez</item>
+        <item>@drawable/cantona</item>
+        <item>@drawable/casemiro</item>
+        <item>@drawable/cr7</item>
+        <item>@drawable/davidbeckham</item>
+        <item>@drawable/miguier</item>
+        <item>@drawable/pogba</item>
+        <item>@drawable/scholes</item>
+        <item>@drawable/vandersar</item>
+        <item>@drawable/waynerooney</item>
+    </integer-array>
+</resources>
